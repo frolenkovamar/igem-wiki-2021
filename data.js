@@ -10,10 +10,10 @@ var data = {
       href: '/',
       content: [
         ['Contribution', '/template.html'],
-        ['Description', '/'],
+        ['Description', 'https://2021.igem.org/Team:Moscow/Description'],
         ['Design', '/'],
         ['Proof of concept', '/'],
-        ['Proposed implementation', '/'],
+        ['Proposed implementation', 'https://2021.igem.org/Team:Moscow/Proposed_implementation'],
         ['Results', '/'],
         ['Safety', '/'],
       ]
@@ -42,11 +42,11 @@ var data = {
       title: 'Human Practices',
       href: '/',
       content: [
-        ['Integrated Human Practices', '/'],
+        ['Integrated Human Practices', 'https://2021.igem.org/Team:Moscow/Human_practices'],
         ['Science Com', '/'],
         ['Handbook 1', '/'],
         ['Handbook 2', '/'],
-        ['Events&Lectures', '/']
+        ['Events&Lectures', 'https://2021.igem.org/Team:Moscow/Events_lectures']
       ]
     },
     about: {
@@ -54,7 +54,7 @@ var data = {
       href: '/',
       content: [
         ['Attributions', '/'],
-        ['Collaborations', '/'],
+        ['Collaborations', 'https://2021.igem.org/Team:Moscow/Collaborations'],
         ['Team', '/']
       ]
     }
